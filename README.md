@@ -1,4 +1,4 @@
-# README - Reinforcement Learning TPs
+# Reinforcement Learning TPs
 
 Ce dépôt contient une série de travaux pratiques (TP) visant à explorer et implémenter des algorithmes d'apprentissage par renforcement (RL). Chaque TP est structuré dans un dossier distinct avec un README détaillant ses objectifs et les étapes de réalisation.
 
