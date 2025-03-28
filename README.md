@@ -2,6 +2,21 @@
 
 Ce dépôt contient une série de travaux pratiques (TP) visant à explorer et implémenter des algorithmes d'apprentissage par renforcement (RL). Chaque TP est structuré dans un dossier distinct avec un README détaillant ses objectifs et les étapes de réalisation.
 
+### Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/uameless/reinforcement-learning.git
+   ```
+2. (Optional) Set up a virtual environment:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
+3. Install the necessary libraries:
+   ```bash
+   pip install -r requirements.txt
+   ```
+   
 ## Table des matières
 - [TP1 - Introduction à OpenAI Gym](#tp1---introduction-à-openai-gym)
 - [TP2 - Implémentation de Q-Learning](#tp2---implémentation-de-q-learning)
@@ -20,21 +35,6 @@ L'objectif de ce TP est de se familiariser avec les outils essentiels du Reinfor
 - Interaction avec un environnement RL
 - Exécution d'actions et observation des retours
 - Analyse des observations et des récompenses reçues
-
-### Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/uameless/reinforcement-learning.git
-   ```
-2. (Optional) Set up a virtual environment:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   ```
-3. Install the necessary libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ### Fichiers
 - `tp1/README.md` - Instructions détaillées
